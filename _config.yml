@@ -6,6 +6,7 @@
 
 title: blog
 description: a hoarding of thoughts
+repository: DaG-del/DaG-del.github.io
 
 # Build settings
 theme: minima
